@@ -1,5 +1,6 @@
 Docker env for GCP
 ---
+A very basic DockerFile intended to create working environements for Qwiklabs challenges without having to install anything on your own machine. The container is also mounting the current dir as `/gcp` so that it can launch bash scripts you made beforehand.
 
 - To build the image
 ```bash
