@@ -9,7 +9,7 @@ make build
 
 - To run it
 ```bash
-make run (or juste make)
+make run (or just make)
 ```
 
 - To run when starting a lab
